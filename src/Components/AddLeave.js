@@ -34,10 +34,17 @@ const AddLeave = () => {
     const isPhoneExist = allUserList.filter(
       (item) => item.MobileNumber === request.MobileNumber
     ).length;
-    if (isEmailExist > 0 && isPhoneExist > 0) {
+    if (isEmailExist > 0) {
       setEmailIsUnique(true);
+    } else {
+      setEmailIsUnique(false);
+    }
+    if (isPhoneExist > 0) {
       setPhoneIsUnique(true);
     } else {
+      setPhoneIsUnique(false);
+    }
+    if (isEmailExist === 0 && isPhoneExist === 0) {
       dispatch(addNewLeave(request));
       history.push("/");
     }
