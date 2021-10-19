@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/LeaveMgmtSystemTechTich/static/css/main.d8a3ecbb.chunk.css",
-    "main.js": "/LeaveMgmtSystemTechTich/static/js/main.5d0cb9df.chunk.js",
-    "main.js.map": "/LeaveMgmtSystemTechTich/static/js/main.5d0cb9df.chunk.js.map",
+    "main.js": "/LeaveMgmtSystemTechTich/static/js/main.68c0ef8a.chunk.js",
+    "main.js.map": "/LeaveMgmtSystemTechTich/static/js/main.68c0ef8a.chunk.js.map",
     "runtime-main.js": "/LeaveMgmtSystemTechTich/static/js/runtime-main.761c6f06.js",
     "runtime-main.js.map": "/LeaveMgmtSystemTechTich/static/js/runtime-main.761c6f06.js.map",
     "static/css/2.5bb906be.chunk.css": "/LeaveMgmtSystemTechTich/static/css/2.5bb906be.chunk.css",
@@ -21,6 +21,6 @@
     "static/css/2.5bb906be.chunk.css",
     "static/js/2.9a5162b6.chunk.js",
     "static/css/main.d8a3ecbb.chunk.css",
-    "static/js/main.5d0cb9df.chunk.js"
+    "static/js/main.68c0ef8a.chunk.js"
   ]
 }
