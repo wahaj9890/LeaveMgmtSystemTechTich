@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/LeaveMgmtSystemTechTich/static/css/main.d8a3ecbb.chunk.css",
+    "main.js": "/LeaveMgmtSystemTechTich/static/js/main.64aa36bc.chunk.js",
+    "main.js.map": "/LeaveMgmtSystemTechTich/static/js/main.64aa36bc.chunk.js.map",
+    "runtime-main.js": "/LeaveMgmtSystemTechTich/static/js/runtime-main.761c6f06.js",
+    "runtime-main.js.map": "/LeaveMgmtSystemTechTich/static/js/runtime-main.761c6f06.js.map",
+    "static/css/2.5bb906be.chunk.css": "/LeaveMgmtSystemTechTich/static/css/2.5bb906be.chunk.css",
+    "static/js/2.4f33c146.chunk.js": "/LeaveMgmtSystemTechTich/static/js/2.4f33c146.chunk.js",
+    "static/js/2.4f33c146.chunk.js.map": "/LeaveMgmtSystemTechTich/static/js/2.4f33c146.chunk.js.map",
+    "static/js/3.c4cee679.chunk.js": "/LeaveMgmtSystemTechTich/static/js/3.c4cee679.chunk.js",
+    "static/js/3.c4cee679.chunk.js.map": "/LeaveMgmtSystemTechTich/static/js/3.c4cee679.chunk.js.map",
+    "index.html": "/LeaveMgmtSystemTechTich/index.html",
+    "static/css/2.5bb906be.chunk.css.map": "/LeaveMgmtSystemTechTich/static/css/2.5bb906be.chunk.css.map",
+    "static/css/main.d8a3ecbb.chunk.css.map": "/LeaveMgmtSystemTechTich/static/css/main.d8a3ecbb.chunk.css.map",
+    "static/js/2.4f33c146.chunk.js.LICENSE.txt": "/LeaveMgmtSystemTechTich/static/js/2.4f33c146.chunk.js.LICENSE.txt",
+    "static/media/mdb.css": "/LeaveMgmtSystemTechTich/static/media/arrow_right.f7c6ac6d.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.761c6f06.js",
+    "static/css/2.5bb906be.chunk.css",
+    "static/js/2.4f33c146.chunk.js",
+    "static/css/main.d8a3ecbb.chunk.css",
+    "static/js/main.64aa36bc.chunk.js"
+  ]
+}
